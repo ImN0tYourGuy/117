@@ -121,8 +121,8 @@ text-align: left;
 }
 .overlay {
   position: absolute;
-  top: 200px;
-  left: 600px;
+  top: 20%;
+  left: 40%;
 }
 
 .rain {
