@@ -40,6 +40,7 @@ a {
   color:#D65A31;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
+  width: 30%;
 
 }
 a:hover {
@@ -163,4 +164,8 @@ text-align: left;
 
 .cite {
   color: #c7c8c9;
+}
+
+.contact-me-note {
+width: 30%;
 }
