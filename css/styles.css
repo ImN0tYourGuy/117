@@ -167,7 +167,8 @@ text-align: left;
 }
 
 .contact-me-note {
-width: 30%;
+  width: 30%;
+  margin: 20px auto 20px auto;
 }
 
 @media screen and (max-width: 700px) {
