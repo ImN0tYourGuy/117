@@ -169,3 +169,8 @@ text-align: left;
 .contact-me-note {
 width: 30%;
 }
+
+@media screen and (max-width: 700px) {
+  .overlay {position: absolute;
+            left: 35.2%}
+}
